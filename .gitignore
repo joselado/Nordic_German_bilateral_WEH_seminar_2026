@@ -1,0 +1,4 @@
+*.OUT
+*.pkl
+.ipynb_checkpoints
+live_sessions/*
