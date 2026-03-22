@@ -1,6 +1,6 @@
 # Tutorial "Engineering artificial correlated quantum matter in 2D van der Waals materials" in the Nordic-German bilateral WEH seminar 2026
 
-Tutorial "Engineering artificial correlated quantum matter in 2D van der Waals materials" in the Nordic-German Wilhelm and Else Heraeus seminar 2026 Quantum condensates and quantum geometry
+Tutorial "Engineering artificial correlated quantum matter in 2D van der Waals materials" in the [Nordic-German Wilhelm and Else Heraeus seminar 2026: Quantum condensates and quantum geometry](https://indico.fysik.su.se/event/9416/)
 
 ## Jupyter notebooks
 - [Topology](https://github.com/joselado/Nordic_German_bilateral_WEH_seminar_2026/blob/main/jupyter-notebooks/topology.ipynb)
