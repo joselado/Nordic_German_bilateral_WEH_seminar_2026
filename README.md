@@ -16,3 +16,5 @@ The Jupyter notebooks use [pyqula](https://github.com/joselado/pyqula), and can 
 pip install --upgrade pyqula
 ```
 
+## Lecture slides
+The slides of the lecture are found [here](https://github.com/joselado/Nordic_German_bilateral_WEH_seminar_2026/blob/main/lecture_slides/lecture_slides.pdf)
